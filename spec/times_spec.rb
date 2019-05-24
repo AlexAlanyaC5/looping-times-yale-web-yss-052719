@@ -10,6 +10,8 @@ describe "#using_times" do
 end
 
 
+wingardium_leviosa = 7
+
 7.times do
   puts "Wingardium Leviosa"
 end
