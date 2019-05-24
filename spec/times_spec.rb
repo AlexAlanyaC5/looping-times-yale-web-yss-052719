@@ -8,3 +8,11 @@ describe "#using_times" do
 	expect{ using_times }.to output(looping_string).to_stdout 
 	end
 end
+
+
+wingardium_leviosa = 7
+end
+
+7.times do
+  puts "Wingardium Leviosa"
+end
